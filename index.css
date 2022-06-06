@@ -1,0 +1,33 @@
+.main{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+    
+}
+.head h1{
+    text-align: center;
+}
+.body input {
+    padding: 5px 20px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.body label h4{
+    margin: 0;
+    margin-bottom: 10px;
+}
+button{
+    margin: 0 auto;
+    display: block;
+    background-color: rgb(24, 203, 170);
+    border: none;
+    color: white;
+    width: 170px;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+p{
+    
+    text-align: center;
+}
